@@ -1,2 +1,2 @@
 Darya Karabanko
-https://www.codecademy.com/users/korodashka/achievements
+HTML CSS Basics: https://htmlacademy.ru/profile/id1013217
